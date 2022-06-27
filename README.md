@@ -14,4 +14,8 @@ colorsys
 ```
 
 ## Results
-![Results](./Results.png)
+![Hue](./readme_images/hue.png)
+<br>
+<br>
+
+![Results](./readme_images/Results.png)
